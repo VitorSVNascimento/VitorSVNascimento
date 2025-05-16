@@ -1,7 +1,8 @@
 ## Eae, Tudo Tranquilo?👋 
 
-- Sou Vitor Nascimento, estudante de programação.
-- Tecnico em informática
+- Sou Vitor Nascimento.
+- Full stack developer
+- Instrutor na instituição SENAC-MG
 - Graduado em sistemas para internet pelo IF sudesteste MG
 
 <div>
