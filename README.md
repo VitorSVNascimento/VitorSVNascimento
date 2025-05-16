@@ -2,7 +2,7 @@
 
 - Sou Vitor Nascimento, estudante de programação.
 - Tecnico em informática
-- Sistemas para Internet 6° Período
+- Graduado em sistemas para internet pelo IF sudesteste MG
 
 <div>
   <img height = "180cm" src="https://github-readme-stats.vercel.app/api?username=VitorSVNascimento&show_icons=true&theme=radical"/>
@@ -23,6 +23,7 @@
   <img align="center" alt="vitor-java" height="45" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="vitor-c" height="45" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="vitor-c++" height="45" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="vitor-python" height="45" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 <!---
